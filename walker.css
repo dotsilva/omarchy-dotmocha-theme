@@ -4,3 +4,61 @@
 @define-color border #cdd6f4;
 @define-color foreground #cdd6f4;
 @define-color background #1e1e2e;
+
+#window {
+  border-radius: 8px;
+}
+
+#window > #box,
+#box {
+  border-radius: 8px;
+}
+
+#search,
+.search,
+#tray #search,
+#tray .search {
+  border-radius: 8px;
+}
+
+#bar,
+.bar {
+  border-radius: 8px;
+}
+
+#scroll,
+.scroll {
+  border-radius: 8px;
+}
+
+#list,
+.list {
+  border-radius: 8px;
+}
+
+#item,
+.item {
+  border-radius: 8px;
+}
+
+#item:hover,
+.item:hover {
+  border-radius: 8px;
+}
+
+#item:selected,
+.item:selected,
+#item:focus,
+.item:focus,
+#item:checked,
+.item:checked {
+  border-radius: 8px;
+}
+
+scrollbar slider {
+  border-radius: 8px;
+}
+
+scrollbar trough {
+  border-radius: 8px;
+}
