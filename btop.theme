@@ -30,9 +30,9 @@ theme[proc_misc]="#f5e0dc"
 
 # CPU, Memory, Network, Proc box outline colors
 theme[cpu_box]="#cba6f7" #Mauve
-theme[mem_box]="#a6e3a1" #Green
+theme[mem_box]="#fab387" #Peach
 theme[net_box]="#eba0ac" #Maroon
-theme[proc_box]="#89b4fa" #Blue
+theme[proc_box]="#94e2d5" #Teal
 
 # Box divider line and small boxes line color
 theme[div_line]="#9399b2"
@@ -43,41 +43,41 @@ theme[temp_mid]="#f9e2af"
 theme[temp_end]="#f38ba8"
 
 # CPU graph colors (Teal -> Lavender)
-theme[cpu_start]="#94e2d5"
-theme[cpu_mid]="#74c7ec"
-theme[cpu_end]="#b4befe"
+theme[cpu_start]="#a6e3a1"
+theme[cpu_mid]="#f9e2af"
+theme[cpu_end]="#f38ba8"
 
 # Mem/Disk free meter (Mauve -> Lavender -> Blue)
-theme[free_start]="#cba6f7"
-theme[free_mid]="#b4befe"
-theme[free_end]="#89b4fa"
+theme[free_start]="#a6e3a1"
+theme[free_mid]="#f9e2af"
+theme[free_end]="#f38ba8"
 
 # Mem/Disk cached meter (Sapphire -> Lavender)
-theme[cached_start]="#74c7ec"
-theme[cached_mid]="#89b4fa"
-theme[cached_end]="#b4befe"
+theme[cached_start]="#a6e3a1"
+theme[cached_mid]="#f9e2af"
+theme[cached_end]="#f38ba8"
 
 # Mem/Disk available meter (Peach -> Red)
-theme[available_start]="#fab387"
-theme[available_mid]="#eba0ac"
+theme[available_start]="#a6e3a1"
+theme[available_mid]="#f9e2af"
 theme[available_end]="#f38ba8"
 
 # Mem/Disk used meter (Green -> Sky)
 theme[used_start]="#a6e3a1"
-theme[used_mid]="#94e2d5"
-theme[used_end]="#89dceb"
+theme[used_mid]="#f9e2af"
+theme[used_end]="#f38ba8"
 
 # Download graph colors (Peach -> Red)
-theme[download_start]="#fab387"
-theme[download_mid]="#eba0ac"
+theme[download_start]="#a6e3a1"
+theme[download_mid]="#f9e2af"
 theme[download_end]="#f38ba8"
 
 # Upload graph colors (Green -> Sky)
 theme[upload_start]="#a6e3a1"
-theme[upload_mid]="#94e2d5"
-theme[upload_end]="#89dceb"
+theme[upload_mid]="#f9e2af"
+theme[upload_end]="#f38ba8"
 
 # Process box color gradient for threads, mem and cpu usage (Sapphire -> Mauve)
-theme[process_start]="#74c7ec"
-theme[process_mid]="#b4befe"
-theme[process_end]="#cba6f7"
+theme[process_start]="#a6e3a1"
+theme[process_mid]="#f9e2af"
+theme[process_end]="#f38ba8"
